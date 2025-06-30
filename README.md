@@ -1,5 +1,5 @@
 # サンプル ソリューションパッケージ
-ソリューションパッケージファイルは[こちら](solutions/HackathonSampleAgents_1_0_0_1.zip)
+ソリューションパッケージファイルは[こちら](solutions/HackathonSampleAgents_1_0_0_1.zip)からダウンロード可能です。
 
 ## 概要
 
@@ -46,6 +46,8 @@
 2. テストパネルで以下のような質問を試す：
    - "慶弔の調整をして下さい。"
 3. ExtractDataフローとの連携を確認
+
+※サンプルファイルは[こちら](assets/table-data-with-hyperlinks.xlsx)からダウンロード可能です。
 
 ## 別環境へのインポート手順
 
